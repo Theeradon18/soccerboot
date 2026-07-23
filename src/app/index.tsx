@@ -9,29 +9,27 @@ import {
   View,
 } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
-
-// 1. กำหนดข้อมูลสินค้า และดึงรูปภาพ local จากโฟลเดอร์ assets
 const productsData = [
   {
     id: "1",
-    name: "หมอนรุ่น Pillow 1",
-    category: "หมอนสุขภาพ",
+    name: "PREDATOR ELITE Fold-Over Tongue Firm Ground Football Boots",
+    category: "soccer shoes",
     price: 350,
-    image: require("../../assets/images/pillow1.jpg"),
+    image: require("../../assets/images/soccer1.jpg"),
   },
   {
     id: "2",
-    name: "หมอนรุ่น Pillow 2",
-    category: "หมอนขนนุ่ม",
+    name: "Nike Socks Mercurial Vapor 16 Academy",
+    category: "soccer shoes",
     price: 490,
-    image: require("../../assets/images/pillow2.jpg"),
+    image: require("../../assets/images/soccer2.jpg"),
   },
   {
     id: "3",
-    name: "หมอนรุ่น Pillow 3",
-    category: "หมอนเมมโมรี่โฟม",
+    name: "Sfida Blast Junior Football Boots",
+    category: "soccer shoes",
     price: 650,
-    image: require("../../assets/images/pillow3.jpg"),
+    image: require("../../assets/images/soccer3.jpg"),
   },
 ];
 
