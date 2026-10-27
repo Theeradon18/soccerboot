@@ -1,0 +1,102 @@
+[
+  {
+    "id": "pay_1789678603829",
+    "orderId": "#BZ20260010",
+    "userId": "u2",
+    "amount": 19850,
+    "paymentMethod": "Bank Transfer",
+    "paymentSlipUrl": "data:image/jpeg;base64,mockslip123",
+    "status": "Paid",
+    "rejectReason": "",
+    "createdAt": "2026-09-17T20:56:43.827Z",
+    "verifiedAt": "2026-09-17T20:58:22.458Z"
+  },
+  {
+    "id": "pay_1789673660970",
+    "orderId": "#BZ20260009",
+    "userId": "u2",
+    "amount": 4650,
+    "paymentMethod": "PromptPay",
+    "paymentSlipUrl": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=600&auto=format&fit=crop&q=60",
+    "status": "Waiting for Verification",
+    "rejectReason": "",
+    "createdAt": "2026-09-17T19:34:20.967Z"
+  },
+  {
+    "id": "pay_1789673660308",
+    "orderId": "#BZ20260008",
+    "userId": "u2",
+    "amount": 4650,
+    "paymentMethod": "PromptPay",
+    "paymentSlipUrl": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=600&auto=format&fit=crop&q=60",
+    "status": "Waiting for Verification",
+    "rejectReason": "",
+    "createdAt": "2026-09-17T19:34:20.305Z"
+  },
+  {
+    "id": "pay_1789673659906",
+    "orderId": "#BZ20260007",
+    "userId": "u2",
+    "amount": 4650,
+    "paymentMethod": "PromptPay",
+    "paymentSlipUrl": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=600&auto=format&fit=crop&q=60",
+    "status": "Waiting for Verification",
+    "rejectReason": "",
+    "createdAt": "2026-09-17T19:34:19.903Z"
+  },
+  {
+    "id": "pay_1789673659545",
+    "orderId": "#BZ20260006",
+    "userId": "u2",
+    "amount": 4650,
+    "paymentMethod": "PromptPay",
+    "paymentSlipUrl": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=600&auto=format&fit=crop&q=60",
+    "status": "Waiting for Verification",
+    "rejectReason": "",
+    "createdAt": "2026-09-17T19:34:19.542Z"
+  },
+  {
+    "id": "pay_1789673659329",
+    "orderId": "#BZ20260005",
+    "userId": "u2",
+    "amount": 4650,
+    "paymentMethod": "PromptPay",
+    "paymentSlipUrl": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=600&auto=format&fit=crop&q=60",
+    "status": "Waiting for Verification",
+    "rejectReason": "",
+    "createdAt": "2026-09-17T19:34:19.327Z"
+  },
+  {
+    "id": "pay_1789673653667",
+    "orderId": "#BZ20260004",
+    "userId": "u2",
+    "amount": 4650,
+    "paymentMethod": "Bank Transfer",
+    "paymentSlipUrl": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=600&auto=format&fit=crop&q=60",
+    "status": "Waiting for Verification",
+    "rejectReason": "",
+    "createdAt": "2026-09-17T19:34:13.665Z"
+  },
+  {
+    "id": "pay_1789673653261",
+    "orderId": "#BZ20260003",
+    "userId": "u2",
+    "amount": 4650,
+    "paymentMethod": "Bank Transfer",
+    "paymentSlipUrl": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=600&auto=format&fit=crop&q=60",
+    "status": "Waiting for Verification",
+    "rejectReason": "",
+    "createdAt": "2026-09-17T19:34:13.259Z"
+  },
+  {
+    "id": "pay_1789673650634",
+    "orderId": "#BZ20260002",
+    "userId": "u2",
+    "amount": 4650,
+    "paymentMethod": "Bank Transfer",
+    "paymentSlipUrl": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=600&auto=format&fit=crop&q=60",
+    "status": "Waiting for Verification",
+    "rejectReason": "",
+    "createdAt": "2026-09-17T19:34:10.632Z"
+  }
+]

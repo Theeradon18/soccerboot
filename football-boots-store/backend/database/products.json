@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "name": "Nike Air Zoom Mercurial Vapor 16 Elite",
+    "brand": "Nike",
+    "model": "Vapor 16 Elite FG",
+    "price": 8900,
+    "color": "Volt / Black",
+    "size": "42 EU / 8.5 US",
+    "stock": 15,
+    "category": "FG Football Boots",
+    "description": "รองเท้าสตั๊ดสายความเร็วระดับท็อป น้ำหนักเบาพร้อมเทคโนโลยี Air Zoom 3/4 ตอบสนองการสปีดและเปลี่ยนทิศทางอย่างรวดเร็ว",
+    "image_url": "https://images.unsplash.com/photo-1511886929837-354d827aae26?auto=format&fit=crop&w=800&q=80",
+    "created_at": "2026-09-17T17:26:52.653Z"
+  },
+  {
+    "id": "2",
+    "name": "Adidas Predator Elite FT",
+    "brand": "Adidas",
+    "model": "Predator Elite FT FG",
+    "price": 9500,
+    "color": "Core Black / Solar Red",
+    "size": "41.5 EU / 8 US",
+    "stock": 10,
+    "category": "FG Football Boots",
+    "description": "รองเท้าสายคอนโทรลระดับตำนาน ลิ้นพับสุดคลาสสิก พร้อมยาง Strikeskin ยิงลูกฟุตบอลได้แม่นยำและปั่นโค้งได้อย่างใจ",
+    "image_url": "https://images.unsplash.com/photo-1575361204480-aadea25e6e68?auto=format&fit=crop&w=800&q=80",
+    "created_at": "2026-09-17T17:26:52.654Z"
+  },
+  {
+    "id": "3",
+    "name": "Mizuno Morelia Neo IV Beta Japan",
+    "brand": "Mizuno",
+    "model": "Neo IV Beta FG",
+    "price": 9200,
+    "color": "White / Gold",
+    "size": "42 EU / 8.5 US",
+    "stock": 8,
+    "category": "FG Football Boots",
+    "description": "ผลิตในประเทศญี่ปุ่น หนังจิงโจ้เกรดพรีเมียม สัมผัสนุ่มสบายเท้า ทนทาน และน้ำหนักเบาเป็นพิเศษ",
+    "image_url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=80",
+    "created_at": "2026-09-17T17:26:52.654Z"
+  },
+  {
+    "id": "4",
+    "name": "Puma Future 7 Ultimate",
+    "brand": "Puma",
+    "model": "Future 7 Ultimate AG",
+    "price": 7800,
+    "color": "Pink / Black",
+    "size": "42.5 EU / 9 US",
+    "stock": 12,
+    "category": "AG Football Boots",
+    "description": "รองเท้าสายคล่องตัว สวมใส่สบายด้วยเทคโนโลยีผ้าถัก FUZIONFIT360 และแถบ PWRTAPE กระชับเท้า สำหรับสนามหญ้าเทียม",
+    "image_url": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?auto=format&fit=crop&w=800&q=80",
+    "created_at": "2026-09-17T17:26:52.654Z"
+  },
+  {
+    "id": "5",
+    "name": "Nike Phantom GX II Pro TF",
+    "brand": "Nike",
+    "model": "Phantom GX II Pro TF",
+    "price": 4600,
+    "color": "Black / Chrome",
+    "size": "41 EU / 7.5 US",
+    "stock": 20,
+    "category": "TF Football Boots",
+    "description": "รองเท้าฟุตบอลร้อยปุ่มสำหรับสนามหญ้าเทียม พื้นยางยึดเกาะดีเยี่ยม อัปเปอร์ NikeSkin นุ่มเท้า คล่องตัว",
+    "image_url": "https://images.unsplash.com/photo-1560769629-975ec94e6a86?auto=format&fit=crop&w=800&q=80",
+    "created_at": "2026-09-17T17:26:52.654Z"
+  }
+]

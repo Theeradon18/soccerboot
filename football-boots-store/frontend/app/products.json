@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "name": "Black T-Shirt",
+    "stock": 12,
+    "category": "T-shirts",
+    "location": "3 stores",
+    "status": "Active",
+    "image": "black.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Pink T-Shirt",
+    "stock": 12,
+    "category": "T-shirts",
+    "location": "3 stores",
+    "status": "Active",
+    "image": "pink.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Red T-Shirt",
+    "stock": 12,
+    "category": "T-shirts",
+    "location": "3 stores",
+    "status": "Active",
+    "image": "red.jpg"
+  }
+]
